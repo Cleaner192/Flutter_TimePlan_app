@@ -1,16 +1,14 @@
-# flutter_application_1
+# TimePlan
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Функционал: </br>
+Смотреть на календарь, листать его изменять формат его отображения (месяц, 2 недели и неделя), добавлять напоминания на разные дни</br>
+Открыть таймер, установить таймер, менять таймер кнопками + и -</br>
+</br>
+<img src="https://user-images.githubusercontent.com/117023024/234333707-e6ffe3c1-f1e8-43ca-a2d7-e872ee865768.png " style="height:400px;">
+<img src="https://user-images.githubusercontent.com/117023024/234333722-216bab04-953a-4e80-961d-f633b2e7e2a1.png " style="height:400px;">
+<img src="https://user-images.githubusercontent.com/117023024/234333856-832c29db-6846-4c88-a43f-c9b92e220c31.png " style="height:400px;">
+<img src="https://user-images.githubusercontent.com/117023024/234333871-65f599d5-6f46-44e8-87de-fd8ffa9fe83e.png" style="height:400px;">
+<img src="https://user-images.githubusercontent.com/117023024/234333762-45ab2419-9385-47b6-94c0-76433354a9d4.png" style="height:400px;">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
